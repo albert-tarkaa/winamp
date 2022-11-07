@@ -1,0 +1,8 @@
+.list-container{
+   margin-top: 19rem;
+   display: flex;
+   flex-direction: column;
+   z-index: 0;
+   overflow-y: scroll;
+   padding:0 1rem;
+}
